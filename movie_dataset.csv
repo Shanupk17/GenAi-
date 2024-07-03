@@ -1,0 +1,51 @@
+S. No,Movie Name,IMDB ID,Song Review,Trailer Response ,YouTube Review,IMDB Rating,Genre,Budget(crores),BO Revenue ,Blockbuster
+1,The Shawshank Redemption,tt0111161,N/A,0,2,8.6,Thirller,30,300,Yes
+2,The Godfather,tt0068646,N/A,2,1,5.4,Crime,50,300,Yes
+3,The Dark Knight,tt0071562,N/A,2,2,7.9,Action,15,300,Yes
+4,The Godfather: Part II,tt0468569,7,2,2,9,Crime,270,300,No
+5,12 Angry Men,tt0050083,N/A,1,2,4.5,Mystery,88,17,No
+6,The Lord of the Rings: The Return of the King,tt0108052,3,2,1,6,Fantasy -Fiction,14,50,Yes
+7,Pulp Fiction,tt0167260,9,2,2,8.9,Suspense,99,180,Yes
+8,Schindler's List,tt0110912,9,2,0,3.9,Historical - Fiction,500,120,No
+9,Inception,tt0060196,5.5,2,2,8.8,Adventure,100,250,Yes
+10,Fight Club,tt0137523,8,0,2,8.8,Action,120,80,No
+11,The Lord of the Rings: The Fellowship of the Ring,tt0120737,6,2,2,7,Adventure,600,350,No
+12,Forrest Gump,tt0109830,8,2,1,8.8,Adventure,5,90,Yes
+13,"Il buono, il brutto, il cattivo",tt1375666,8.9,2,2,7,Mystery,110,100,No
+14,The Lord of the Rings: The Two Towers,tt0167261,9,2,1,6,Adventure,90,180,Yes
+15,The Matrix,tt0080684,9,2,2,8.7,Science-Fiction ,100,220,Yes
+16,Goodfellas,tt0133093,7.5,2,2,2,Historical - Fiction,105,60,No
+17,Star Wars: Episode V - The Empire Strikes Back,tt0099685,6.2,2,0,8.7,Adventure,5,130,Yes
+18,One Flew Over the Cuckoo's Nest,tt0073486,8,2,1,3.2,Crime,80,30,No
+19,Hamilton,tt0047478,N/A,1,2,8,Suspense,35,12,No
+20,Gisaengchung,tt0114369,8,1,2,1.9,Adventure,70,4,No
+21,Soorarai Pottru,tt0317248,2.7,2,2,8.6,Suspense,110,60,No
+22,Interstellar,tt0102926,7,2,2,8.6,science -Fiction,78.5,240,Yes
+23,Cidade de Deus,tt0038650,8,2,1,5.3,Crime,9,85,Yes
+24,Sen to Chihiro no kamikakushi,tt0120815,8.3,2,2,8.6,Adventure,50,160,No
+25,Saving Private Ryan,tt0245429,9,1,1,8.6,Fantasy -Fiction,100,300,Yes
+26,The Green Mile,tt0118799,8,2,2,6,Fantasy -Fiction,20,180,No
+27,La vita Ã¨ bella,tt0120689,3.3,2,2,8.6,Crime,40,55,No
+28,Se7en,tt0816692,8.2,2,2,8.6,Fantasy -Fiction,70,130,Yes
+29,The Silence of the Lambs,tt0054215,7,1,2,8.6,Fantasy -Fiction,60,210,Yes
+30,Star Wars,tt0110413,10,2,2,8.6,Science-Fiction ,30.9,95,Yes
+31,Seppuku,tt6751668,8.1,2,2,4.8,Crime,34,170,No
+32,Shichinin no samurai,tt7286456,7,2,2,10,Adventure,125,230,
+33,It's a Wonderful Life,tt0103064,8,2,1,2,Suspense,10,350,No
+34,Joker,tt0088763,9.2,1,2,8.5,Adventure,50,120,Yes
+35,Whiplash,tt0253474,8,2,0,8.5,Crime,46,180,NO
+36,The Intouchables,tt0057012,9,0,2,6.7,Adventure,78,200,Yes
+37,The Prestige,tt0050825,8,2,1,8.5,Crime,57,90,Yes
+38,The Departed,tt0172495,3.8,1,2,8.5,Fantasy -Fiction,50,140,Yes
+39,The Pianist,tt0021749,N/A,2,2,8.5,Crime,45,270,No
+40,Gladiator,tt0120586,8,1,1,7.4,Science-Fiction ,42,150,No
+41,American History X,tt0076759,8,2,2,4.9,Historical - Fiction,77,190,No
+42,The Usual Suspects,tt0407887,8,2,2,5.7,Adventure,8,80,Yes
+43,LÃ©on,tt0082971,5,2,1,5.8,Suspense,40,100,No
+44,The Lion King,tt0110357,8,2,2,8.5,Crime,45,220,Yes
+45,Terminator 2: Judgment Day,tt0482571,8,0,2,8.5,Fantasy -Fiction,105,400,Yes
+46,Nuovo Cinema Paradiso,tt2582802,8,2,0,9,Adventure,4,60,No
+47,Hotaru no haka,tt1675434,7,2,2,6.4,Fantasy -Fiction,73,110,Yes
+48,Back to the Future,tt0027977,3.2,2,2,8.5,Mystery,54,250,Yes
+49,Once Upon a Time in the West,tt0095327,8,2,2,4.7,Historical - Fiction,26,130,No
+50,Transformers Rise of the Beast,tt0087642,8,2,1,9.9,Science-Fiction ,80.99,300,Yes
